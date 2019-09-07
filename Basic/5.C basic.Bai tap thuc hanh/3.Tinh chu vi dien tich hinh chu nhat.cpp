@@ -1,4 +1,4 @@
-#include <stdio.h> //khai bao thu vien stdio.h
+#include <stdio.h> //khai bao thu vinen stdio.h
 /* height and width of a rectangle in inches */
 int width;//khai bao 1 bien width          
 int height; // khai bao 1 bien height
