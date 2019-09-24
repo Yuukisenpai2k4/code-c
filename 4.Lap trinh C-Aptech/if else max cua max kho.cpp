@@ -9,7 +9,6 @@ int main(){
 	else{
 		printf("a khong chia het cho ca 3 va 5\n");
 	}
-	else if(()){
 		printf("a chia het cho 3");
 	}
 	return 0;
